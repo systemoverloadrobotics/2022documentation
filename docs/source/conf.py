@@ -4,7 +4,7 @@
 
 project = 'SOR Documentation'
 copyright = '2022, System Overload Robotics'
-author = 'Graziella'
+author = 'SOR'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'javasphinx'
 ]
 
 intersphinx_mapping = {
