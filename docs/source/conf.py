@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'SOR Documentation'
+copyright = '2022, System Overload Robotics'
 author = 'Graziella'
 
 release = '0.1'
