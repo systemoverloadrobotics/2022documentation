@@ -8,7 +8,7 @@ Check out the :doc:`joystick` section for further information about the joystick
 .. note::
    These docs are under active development.
 
-.. java:type:: public interface List<E> extends Collection<E>, Iterable<E>
+.. java:type:: `public interface List<E> extends Collection<E>, Iterable<E>`
 
    An ordered collection (also known as a *sequence*)
 
