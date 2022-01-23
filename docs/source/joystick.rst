@@ -12,3 +12,8 @@ The Joystick has 4 different Axes:
 The purpose of Axes 1 and 2 are strafing, which allows the robot to move out of dangerous situations quickly.
 Axis 4 is meant to be a global speed modifier, which allows for fine-tuned movement at critical moments.
 Axis 3 is currently unused.
+
+.. rli:: https://github.com/systemoverloadrobotics/fullrobot2021/blob/main/src/main/java/frc/robot/Main.java
+    :language: java
+    :lines: 1 - 12
+    :linenos:
