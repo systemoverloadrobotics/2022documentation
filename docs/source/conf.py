@@ -39,3 +39,6 @@ epub_show_urls = 'footnote'
 javadoc_url_map = {
     "revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
 }
+
+def setup(app):
+    app.add_css_file('docs/style.css')
