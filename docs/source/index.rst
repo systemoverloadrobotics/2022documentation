@@ -8,6 +8,8 @@ Check out the :doc:`joystick` section for further information about the joystick
 .. note::
    These docs are under active development.
 
+.. revrobotics:package:: com.revrobotics
+
 Contents
 --------
 

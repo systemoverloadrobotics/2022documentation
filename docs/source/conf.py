@@ -35,3 +35,7 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+javadoc_url_map = {
+    "revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
+}
