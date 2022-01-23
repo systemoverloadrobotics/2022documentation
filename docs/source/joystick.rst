@@ -1,7 +1,7 @@
 Joystick
 ========
 
-The Joystick currently used by SOR is the `Logitech Extreme 3D Pro Joystick<https://www.logitechg.com/en-us/products/space/extreme-3d-pro-joystick.963290-0403.html>`_
+The Joystick currently used by SOR is the `Logitech Extreme 3D Pro Joystick <https://www.logitechg.com/en-us/products/space/extreme-3d-pro-joystick.963290-0403.html>`_
 
 Joystick Controls
 ^^^^^^^^^^^^^^^^^
