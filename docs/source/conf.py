@@ -18,7 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinxext.remoteliteralinclude',
-    'javasphinx'
+    'javasphinx3'
 ]
 
 intersphinx_mapping = {
