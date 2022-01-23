@@ -3,7 +3,8 @@ Joystick
 
 The Joystick 
 
-The Joystick has 4 different Axes:
+The Joystick has 4 different Axes
+---------------------------------
 - Axis 1 - X-Axis
 - Axis 2 - Y-Axis
 - Axis 3 - Z-Axis (Twist)
