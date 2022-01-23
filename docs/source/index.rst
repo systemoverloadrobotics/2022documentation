@@ -8,7 +8,8 @@ Check out the :doc:`joystick` section for further information about the joystick
 .. note::
    These docs are under active development.
 
-.. revrobotics:package:: com.revrobotics
+.. revrobotics:type:: public class ColorSensorV3
+   REV Robotics Color Sensor V3
 
 Contents
 --------
