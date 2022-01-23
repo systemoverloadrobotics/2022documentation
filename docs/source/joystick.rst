@@ -4,7 +4,7 @@ Joystick
 The Joystick 
 
 Joystick Axes
-.............
+-------------
 - Axis 1 - X-Axis
 - Axis 2 - Y-Axis
 - Axis 3 - Z-Axis (Twist)

@@ -1,1 +1,2 @@
 sphinxext-remoteliteralinclude==0.3.0
+javasphinx==0.9.15
