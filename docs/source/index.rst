@@ -8,7 +8,7 @@ Check out the :doc:`joystick` section for further information about the joystick
 .. note::
    These docs are under active development.
 
-.. revrobotics:type:: public interface RelativeEncoder extends CANEncoder
+.. com.revrobotics:type:: public interface RelativeEncoder extends CANEncoder
 
 Contents
 --------
