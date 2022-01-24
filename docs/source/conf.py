@@ -37,5 +37,10 @@ html_theme = 'karma_sphinx_theme'
 epub_show_urls = 'footnote'
 
 javadoc_url_map = {
-    "revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
+    "com.revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
+}
+javadoc_url_map = {
+    'org.springframework' : ('http://static.springsource.org/spring/docs/3.1.x/javadoc-api/', 'javadoc'),
+    'org.springframework.data.redis' : ('http://static.springsource.org/spring-data/data-redis/docs/current/api/', 'javadoc'),
+    "com.revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
 }
