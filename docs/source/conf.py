@@ -17,8 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxext.remoteliteralinclude',
-    'javasphinx3'
+    'sphinxext.remoteliteralinclude'
 ]
 
 intersphinx_mapping = {
@@ -35,12 +34,3 @@ html_theme = 'karma_sphinx_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-javadoc_url_map = {
-    "com.revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
-}
-javadoc_url_map = {
-    'org.springframework' : ('http://static.springsource.org/spring/docs/3.1.x/javadoc-api/', 'javadoc'),
-    'org.springframework.data.redis' : ('http://static.springsource.org/spring-data/data-redis/docs/current/api/', 'javadoc'),
-    "com.revrobotics" : ("https://codedocs.revrobotics.com/java/index.html", "javadoc8")
-}

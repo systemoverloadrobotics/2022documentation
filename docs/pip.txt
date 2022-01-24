@@ -1,3 +1,1 @@
 sphinxext-remoteliteralinclude==0.3.0
-javasphinx3==0.9.15
-karma-sphinx-theme==0.0.8
